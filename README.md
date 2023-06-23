@@ -1,3 +1,4 @@
+![logo](https://github.com/Himannshu-03399/Himanshu-03399/blob/main/bannar.png)
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
 <h3 align="center">A passionate Data structure and web developer(try to be better than prev. day)from India</h3>
 <img align="right" alt = "coding" width="350" src="https://github.com/Himannshu-03399/Himanshu-03399/assets/104507568/a6c4ab6f-536a-4eca-bc9a-947a818478d2">
